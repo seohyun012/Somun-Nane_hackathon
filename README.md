@@ -4,6 +4,20 @@
 
 멋쟁이사자처럼 syu 13기 중앙해커톤 지역 소통 프로젝트
 
+---
+
+### 🖥️ Project View
+(<img width="287" height="632" alt="image" src="https://github.com/user-attachments/assets/9d5ca421-2195-48d5-9354-b9115271d71c" />
+<img width="217" height="512" alt="image" src="https://github.com/user-attachments/assets/4bfdb4ac-9b8d-4d81-8af7-8e4b742f6a82" />
+<img width="206" height="503" alt="image" src="https://github.com/user-attachments/assets/2bf7001a-4b54-42f6-8bf6-f4eb9c5f139c" />
+)
+
+### 🎨 Design
+* [Figma 링크 바로가기](https://www.figma.com/files/team/1529404293822035108/all-projects?fuid=1486185751817289847)
+
+---
+
+
 ### 깃 브랜치 사용 규칙
 
 main
