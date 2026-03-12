@@ -21,6 +21,8 @@
 ### 🎨 Design
 * [Figma 링크 바로가기](https://www.figma.com/files/team/1529404293822035108/all-projects?fuid=1486185751817289847)
 
+### 📂 Project Documents
+* [📄 프로젝트 발표 자료 (PDF)](https://github.com/seohyun012/Somun-Nane_hackathon/blob/main/%EC%82%BC%EC%9C%A1%EB%8C%80%ED%95%99%EA%B5%90_%ED%98%B8%EC%8B%9C%EB%85%B8%EC%95%84%EC%9D%B4_%EC%86%8C%EB%AC%B8%EB%82%AC%EB%84%A4_260312_082815.pdf)
 ---
 
 ### 👩‍💻 My Role (Frontend Developer)
