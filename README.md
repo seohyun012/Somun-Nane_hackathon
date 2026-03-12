@@ -1,8 +1,8 @@
 
-# 📢 소문났네 : 위치 기반 지역 커뮤니티 소통 서비스
+# 📢 소문났네 (Somun-Nane)
 > **멋쟁이사자처럼 13기 중앙해커톤 참여작**
-
-멋쟁이사자처럼 syu 13기 중앙해커톤 지역 소통 프로젝트
+> 
+> 지역 소상공인들을 위한 쉽고 빠른 AI 광고 제작 및 지역 커뮤니티 플랫폼
 
 ---
 
@@ -11,8 +11,30 @@
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/4bfdb4ac-9b8d-4d81-8af7-8e4b742f6a82" />
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/2bf7001a-4b54-42f6-8bf6-f4eb9c5f139c" />
 
+---
+
+### ✨ Key Features
+* **소상공인 맞춤형 광고 제작**: 복잡한 디자인 기술 없이도 지역 상권을 위한 홍보물 생성
+* **AI 홍보물 생성**: 간단한 텍스트 입력만으로 AI가 홍보 이미지와 소개 문구를 자동으로 생성
+* **지역 기반 소통**: 위치 데이터를 활용하여 동네 주민과 소상공인을 잇는 커뮤니티 기능
+
 ### 🎨 Design
 * [Figma 링크 바로가기](https://www.figma.com/files/team/1529404293822035108/all-projects?fuid=1486185751817289847)
+
+---
+
+### 👩‍💻 My Role (Frontend Developer)
+* **커뮤니티 인터페이스 구현**: 지역 주민 간 소통이 가능한 게시판 및 피드 화면 개발
+* **마이페이지 및 프로필 관리**: 사용자 정보 확인, 프로필 수정 및 개인 활동 관리 페이지 구현
+* **관심 목록(좋아요) 시스템**: 사용자가 찜한 홍보물이나 게시글을 모아볼 수 있는 '좋아요 목록' 기능 개발
+* **스타일링 및 UI 최적화**: TypeScript와 CSS를 활용하여 직관적이고 정갈한 사용자 경험(UX) 제공
+
+---
+
+### 🛠 Tech Stack
+* **Frontend**: React Native, Expo, TypeScript
+* **Design**: Figma
+
 
 ---
 
