@@ -34,7 +34,7 @@
 ---
 
 ### 🛠 Tech Stack
-* **Frontend**: React Native, Expo, TypeScript
+* **Frontend**: React Native, Expo, TypeScript, css
 * **Design**: Figma
 
 
