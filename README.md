@@ -9,7 +9,9 @@
 ### 🖥️ Project View
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/f007406d-123b-475e-9690-a0dc67598a8d" />
 <img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/4bfdb4ac-9b8d-4d81-8af7-8e4b742f6a82" />
-<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/2bf7001a-4b54-42f6-8bf6-f4eb9c5f139c" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/2bf7001a-4b54-42f6-8bf6-f4eb9c5f139c" />
+<img width="264" height="652" alt="image" src="https://github.com/user-attachments/assets/feb88e25-c36c-4cfd-8c00-f6704d5c7830" />
+
 
 ---
 
